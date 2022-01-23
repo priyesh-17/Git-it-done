@@ -1,2 +1,2 @@
-//Place your Python code here!
+#Place your Python code here!
 print("Hello World")
